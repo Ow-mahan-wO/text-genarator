@@ -11,4 +11,4 @@ this is a text generator with sopport 4 language:
 
 github page link:
 
-
+https://ow-mahan-wo.github.io/text-genarator/
